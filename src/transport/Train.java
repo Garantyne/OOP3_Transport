@@ -36,6 +36,9 @@ public class Train extends Transport {
             this.numberOfWagons = numberOfWagons;
         }
     }
+    public void hello(){
+
+    }
 
     public double getCoastOfTravel() {
         return coastOfTravel;
